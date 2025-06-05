@@ -76,7 +76,7 @@ python predict.py
 CAPTCHA 전체 문자열이 정확히 예측된 경우만 정답으로 판단하며, 평가에 사용되는 이미지는 `dataset/`에서 무작위로 10,000개 추출됩니다.
 
 ```bash
-python eval.py
+python evaluate.py
 ```
 
 예시 출력:
